@@ -1,3 +1,3 @@
 # Code_example
-##About
+## About
 This is the home for my example codes
