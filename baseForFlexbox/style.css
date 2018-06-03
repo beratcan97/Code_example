@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  header {
+    flex: 0 0 200px;
+    background: #f00;
+  }
+  main {
+    display: block;
+    flex: 0 0 auto;
+  }
+  footer {
+    flex: 0 0 100px;
+    background: #00f;
+  }
