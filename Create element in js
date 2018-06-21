@@ -1,0 +1,7 @@
+var pTag = document.createElement("p");
+var pTagText = document.createTextNode("This is new.");
+pTag.appendChild(pTagText);
+
+
+var element = document.getElementById("div1");
+element.appendChild(pTag);
